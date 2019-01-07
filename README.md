@@ -10,6 +10,7 @@ My Name is Devender Yadav. I am a software developer working on big data and blo
 
 ### Contact Me
 
+- dev.emr@gmail.com
 - [Telegram](https://t.me/itsmedev)
 - [Linkedin](https://www.linkedin.com/in/devenderyadav17)
 
