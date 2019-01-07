@@ -5,7 +5,7 @@ My Name is Devender Yadav. I am a software developer working on big data and blo
 ### My profiles
 
 - [stackoverflow](https://stackoverflow.com/users/3929393)
-- [Github](https://github.com/devender-yadav)
+- [GitHub](https://github.com/devender-yadav)
 
 
 ### Contact Me
@@ -24,6 +24,6 @@ My Name is Devender Yadav. I am a software developer working on big data and blo
 
 -----------------------------
 
-_**Check [resume]() for more details.**_
+_**Check [resume](https://drive.google.com/file/d/1HgScjEaIHhEcl3YkGYRAzVLHGkKbRIga/view?usp=sharing) for more details.**_
 
 
