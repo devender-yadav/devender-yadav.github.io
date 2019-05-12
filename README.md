@@ -20,11 +20,12 @@ My Name is Devender Yadav. I am a software developer working on big data and blo
 - [Github User Details Finder](https://devender-yadav.github.io/GitUserDetailsFinder)
 - [Ethereum Counter Dapp](https://devender-yadav.github.io/counter-dapp)
 - [Telegram Tag Finder BOT](https://devender-yadav.github.io/TagFinderBot)
+- [Github Trending Repository](https://github.com/devender-yadav/github-trending-repo)
 - [IOTA Snapshot Analyser](https://devender-yadav.github.io/iota-snapshot-analyser)
 
 
 -----------------------------
 
-_**Check [resume](https://drive.google.com/file/d/1HgScjEaIHhEcl3YkGYRAzVLHGkKbRIga/view?usp=sharing) for more details.**_
+_**Check [resume](https://drive.google.com/file/d/1lJvS28-Dem7W8sdV90Z8zKXSVAFuYfhV/view?usp=sharing) for more details.**_
 
 
